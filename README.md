@@ -32,8 +32,8 @@ El repositorio contiene los siguientes archivos:
 ## Requisitos
 
 El proyecto utiliza las siguientes librerías de Python que pueden instalarse ejecutando el requirements_gps.txt:
--networkx
--osmnx
--pandas
--numpy
--matplotlib
+  -networkx
+  -osmnx
+  -pandas
+  -numpy
+  -matplotlib
