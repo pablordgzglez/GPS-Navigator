@@ -37,3 +37,6 @@ El proyecto utiliza las siguientes librerías de Python que pueden instalarse ej
   - pandas
   - numpy
   - matplotlib
+
+## Autores
+@alvaroplmr @pablordgzglez
