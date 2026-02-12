@@ -39,4 +39,5 @@ El proyecto utiliza las siguientes librerías de Python que pueden instalarse ej
   - matplotlib
 
 ## Autores
-@alvaroplmr @pablordgzglez
+[@alvaroplmr](https://github.com/alvaroplmr)
+[@pablordgzglez](https://github.com/pablordgzglez)
